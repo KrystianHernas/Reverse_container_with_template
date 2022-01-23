@@ -3,8 +3,6 @@
 #include <algorithm>
 #include <map>
 #include <array>
-#include <numeric>
-#include <iomanip>
 
 template<typename C>
 auto revers(C container)
